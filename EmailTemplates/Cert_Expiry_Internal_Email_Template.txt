@@ -1,0 +1,12 @@
+Hello,
+
+This is to notify you that WxCCE Certificate Expiry Notification job failed to execute. 
+
+Reason : {InternalEmailReason}
+
+Action : Fix the above stated issue and re-trigger the certificate expiry notification job manually. 
+
+Impact : Failure to notify the certificate expiry proactively may result in an outage for services in WxCCE tenants. 
+
+Regards,
+Certificates Monitoring Service

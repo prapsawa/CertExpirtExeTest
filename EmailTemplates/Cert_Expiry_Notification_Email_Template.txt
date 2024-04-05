@@ -1,0 +1,10 @@
+Hello,
+
+This is to notify you that SSL Certificate associated with request {CID} will expire in {X} days.
+
+The CN associated with this request is {CN}.
+{SANs}
+Warning : Failure to renew and deploy the certificate may result in an outage for services using this certificate.
+
+Regards,
+Certificates Monitoring Service

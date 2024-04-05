@@ -1,0 +1,23 @@
+{
+  "sender_email": "",
+  "receiver_email": "",
+  "internal_team_email": "",
+  "smtp_server": "",
+  "smtp_port": 25,
+  "cert_endpoints": {
+    "previous_cert_endpoint": "https://sslapiext.cisco.com/sslapi/v1/certs",
+    "current_cert_endpoint": "https://sslcerts.cisco.com/sslapi/v1/certs"
+  },
+  "api_key": "",
+  "debugLogLevel": 0,
+  "expired_cert_notify_only_once": "yes",
+    "notification_duration": {
+        "0":  true,    
+        "1":  true,
+        "7":  true,
+        "30": true,
+        "60": true,
+        "90": true
+      },
+  "max_retries": 3
+}
